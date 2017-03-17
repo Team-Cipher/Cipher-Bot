@@ -247,7 +247,7 @@ function step4 () {
 	print("-------------------------------------------\n");
 	print("Enter here your nicknames to give them " + "full access to bot commands".cyan);
 	print("Separate them with commas");
-	print("Example: Stellation, StellationAFK, Aflawind\n");
+	print("Example: stellation, stellationafk, aflastorm\n");
 	var excepted = scan("Enter the excepted users: ");
 	excepted = excepted.split(",");
 	for (var i = 0; i < excepted.length; i++) excepted[i] = excepted[i].toLowerCase().replace(/[^a-z0-9]/g, '');
