@@ -1,7 +1,9 @@
 /*
 	Pokemon Showdown Bot, for NodeJS
+	
+	By: Alfastorm and Stellation
 
-	By: Ecuacion
+	Original file by Ecuacion
 */
 
 try {
