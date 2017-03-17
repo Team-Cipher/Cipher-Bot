@@ -121,7 +121,7 @@ exports.permissionExceptions = {
 	'challenge': '%',
 	'searchbattle': '~',
 	'tournament': '@',
-	'games': '#'
+	'games': '+'
 };
 
 exports.botguide = "https://github.com/Team-Cipher/Cipher-Bot/blob/master/commands/README.md";
