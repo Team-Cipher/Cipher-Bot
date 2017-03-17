@@ -33,7 +33,7 @@ exports.commands = {
 			return this.reply(this.trad('e2'));
 		}
 		var details = {
-			format: 'ou',
+			format: '[Gen 7] Random Battle',
 			type: 'elimination',
 			maxUsers: null,
 			timeToStart: 30 * 1000,
