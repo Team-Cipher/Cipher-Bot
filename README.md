@@ -104,7 +104,9 @@ Check the [configuration guide](https://github.com/Ecuacion/Pokemon-Showdown-Nod
 Credits
 -----------
 
- - [Ecuacion](https://github.com/Ecuacion/) (Owner)
+ - Ecuacion and contributors: Files we worked off of
+ - Alfastorm (Alphawind): Owner
+ - Stellation: Owner
  
 Contributors:
 
