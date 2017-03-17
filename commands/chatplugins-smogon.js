@@ -6,7 +6,7 @@
 
 function getDefaultTier (room) {
 	if (Settings.settings.deftier && Settings.settings.deftier[room]) return Settings.settings.deftier[room];
-	return "ou";
+	return "[Gen 7] Random Battle";
 }
 
 /* Usage utils */
